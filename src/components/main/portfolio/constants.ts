@@ -45,7 +45,7 @@ export const projects = [
   {
     label: "Hack the box Writeup's",
     img_url:"/htb.jpeg",
-    description: "",
+    description: "Explore my Hack The Box Writeup Repository, featuring detailed walkthroughs for HTB machines, challenge writeups, and helpful hints. Enhance your penetration testing skills with step-by-step guides. For educational purposes only. Contribute or collaborate to foster knowledge sharing in the HTB community. Happy hacking! ",
     github: "https://github.com/Itskmishra/hackthebox-writeups",
     type: "Security",
   },
