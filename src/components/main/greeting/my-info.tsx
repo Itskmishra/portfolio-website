@@ -29,7 +29,7 @@ const MyInfo = () => {
         <div>
           <Button size={"lg"} className="rounded-xl">
             <Link
-              href={"#Contact-section"}
+              href={"#contact"}
               className="flex items-center justify-center gap-2"
             >
               Say Hello <Send className="w-5 h-5" />
